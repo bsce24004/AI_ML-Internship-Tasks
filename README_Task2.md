@@ -1,3 +1,7 @@
+## Author
+Muhammad Ahmed  
+DHC ID: 239
+
 # AI/ML Internship Task 2 - Stock Price Prediction
 
 ## 📌 Objective
