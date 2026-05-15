@@ -1,3 +1,7 @@
+## Author
+Muhammad Ahmed  
+DHC ID: 239
+
 # AI/ML Internship Tasks
 
 ## Task 1: Iris Dataset Exploration
